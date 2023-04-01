@@ -18,7 +18,7 @@
 
     exports.push([module.i, "/* You can add global styles to this file, and also import other style files */", "", {
       "version": 3,
-      "sources": ["C:\\Users\\DELL\\Chirag\\Handsons\\Angular\\portfolio/src\\styles.scss"],
+      "sources": ["C:\\Users\\DELL\\Chirag\\Handsons\\Angular\\personal-porfolio/src\\styles.scss"],
       "names": [],
       "mappings": "AAAA,8EAAA",
       "file": "styles.scss",
@@ -464,7 +464,7 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! C:\Users\DELL\Chirag\Handsons\Angular\portfolio\src\styles.scss */
+    /*! C:\Users\DELL\Chirag\Handsons\Angular\personal-porfolio\src\styles.scss */
     "./src/styles.scss");
     /***/
   }
