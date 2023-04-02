@@ -1549,7 +1549,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p");
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " Desing & Developed by \u2764\uFE0FChikky\xAE.");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " Designed & Developed by \u2764\uFE0FChikky\xAE.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 

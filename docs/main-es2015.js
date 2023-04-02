@@ -759,7 +759,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "div", 10);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " Desing & Developed by \u2764\uFE0FChikky\u00AE.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, " Designed & Developed by \u2764\uFE0FChikky\u00AE.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](14);
